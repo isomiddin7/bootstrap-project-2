@@ -2,6 +2,8 @@
 
 Bootstrap website for training courses, workshops, seminars, etc. It has a mixed design with both light and dark colors and a modern look.
 
+<a href="https://bootstrap-project-2-eight.vercel.app/">Demo</a>
+
 <img src="./images/screen.png" />
 
 ## Features
